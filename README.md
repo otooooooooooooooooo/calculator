@@ -2,7 +2,7 @@ $Calculator
 
 (c) Otar Kalandadze
 
-Calculator program with 7-segment display support.
+Calculator program for FPGA board (cyclone V gx starter kit) with 7-segment display support.
 
 Controls:
 
