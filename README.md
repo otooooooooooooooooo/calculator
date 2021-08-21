@@ -3,6 +3,7 @@ $Calculator
 (c) Otar Kalandadze
 
 Calculator program for FPGA board (cyclone V gx starter kit) with 7-segment display support.
+Light switcher module is just for decoration (light flicking and transferring illusion), hence can be ommited.
 
 Controls:
 
